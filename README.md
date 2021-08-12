@@ -4,12 +4,6 @@
 - *16 years*
 - *Spoken Languagens:* Portuguese, English
 
- <div>
-  <a href="https://github.com/LaurentFeliciano">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LaurentFeliciano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentFeliciano&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Laurent-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="Laurent-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
@@ -22,7 +16,13 @@
   <img align="center" alt="Laurent-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Laurent-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
- 
+
+ <div>
+  <a href="https://github.com/LaurentFeliciano">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LaurentFeliciano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentFeliciano&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
   ##
   
 <div> 
