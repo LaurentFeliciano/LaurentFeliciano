@@ -3,7 +3,6 @@
 - *Searching for a internship*
 - *16 years*
 - *Spoken Languagens:* Portuguese, English
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Laurent-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="Laurent-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
@@ -16,6 +15,7 @@
   <img align="center" alt="Laurent-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Laurent-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
 
  <div>
   <a href="https://github.com/LaurentFeliciano">
