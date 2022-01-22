@@ -1,5 +1,5 @@
 ## Hello everyone! I'm Laurent Feliciano😊👨‍💻
-- *Full Stack/Back End Programmer*
+- *Full Stack Programmer*
 - *Searching for a internship*
 - *16 years*
 - *Spoken Languagens:* Portuguese, English
