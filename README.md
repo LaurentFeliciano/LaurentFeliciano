@@ -2,7 +2,7 @@
 - *Full Stack Programmer*
 - *Searching for a internship*
 - *16 years*
-- *Spoken Languagens:* Portuguese, Advanced English and Basic Spanish
+- *Spoken Languagens:* Portuguese and Advanced English 
 
  <div>
   <a href="https://github.com/LaurentFeliciano">
