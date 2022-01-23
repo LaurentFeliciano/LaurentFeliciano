@@ -1,4 +1,4 @@
-## Hello everyone! I'm Laurent Feliciano😊👨‍💻
+## Hello! I'm Laurent Feliciano😊👨‍💻
 - *Full Stack Programmer*
 - *Searching for a opportunity*
 - *16 years*
