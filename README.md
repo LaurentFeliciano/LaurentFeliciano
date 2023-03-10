@@ -1,7 +1,7 @@
 ## Hello! I'm Laurent Feliciano😊👨‍💻
 - *Full Stack Programmer*
 - *17 years*
-- *Spoken Languagens:* Portuguese and Advanced English 
+- *Spoken Languagens:* Spanish, English 
 
  <div>
   <a href="https://github.com/LaurentFeliciano">
